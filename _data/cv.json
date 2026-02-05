@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Chirag D. Goenka",
+    "email": "goenkachirag27@gmail.com",
+    "phone": "+65-8262-0543",
+    "website": "https://gchirag27.github.io",
+    "summary": "MComp CS @ NUS | AI & Software Engineer | Research in Computational Biology",
+    "location": {
+      "city": "Singapore",
+      "countryCode": "SG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "chiraggoenka",
+        "url": "https://linkedin.com/in/chiraggoenka"
+      },
+      {
+        "network": "GitHub",
+        "username": "gchirag27",
+        "url": "https://github.com/gchirag27"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "National University of Singapore",
+      "area": "Master of Computing in Computer Science",
+      "endDate": "2026",
+      "courses": [
+        "Big Data Systems",
+        "Distributed Systems",
+        "Deep Learning",
+        "Uncertainty AI Modeling",
+        "Program Analysis"
+      ]
+    },
+    {
+      "institution": "Purdue University",
+      "area": "B.S. in Computer Science, Applied Math Minor",
+      "endDate": "2024",
+      "gpa": "3.71/4.0",
+      "courses": [
+        "Causal AI",
+        "Numerical Methods",
+        "Linear Programming",
+        "Real Analysis",
+        "OS and Databases",
+        "OOP",
+        "Data Structures"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Danone",
+      "position": "Data Science Intern",
+      "startDate": "2026-01",
+      "location": "Singapore",
+      "summary": "Building AI voice-assisted web app with Model Context Protocol"
+    },
+    {
+      "company": "HP Inc.",
+      "position": "AI Software Engineer Intern",
+      "startDate": "2025-05",
+      "endDate": "2025-12",
+      "location": "Singapore",
+      "summary": "Increased operational productivity and AI adoption by 20%"
+    },
+    {
+      "company": "NUS Centre of Excellence for Next Generation Ports",
+      "position": "Software Engineer Intern",
+      "startDate": "2024-12",
+      "endDate": "2025-03",
+      "location": "Singapore",
+      "summary": "Designed backend architecture RESTful API with Python, FastAPI, PostgreSQL"
+    },
+    {
+      "company": "Walt Disney Imagineering",
+      "position": "Mixed Reality Developer Intern",
+      "startDate": "2023-08",
+      "endDate": "2024-05",
+      "location": "Indiana, United States",
+      "summary": "Delivered a next-gen immersive guest experience for Disneyland"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "position": "Machine Learning Engineer Intern",
+      "startDate": "2022-06",
+      "endDate": "2022-07",
+      "location": "Singapore",
+      "summary": "Led a team of 5 interns to build TiDes for content creators"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "MATLAB", "SQL", "Java", "JavaScript", "FreeFEM++", "VBA", "R", "Bash"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "API", "VS Code", "Jupyter", "MS Excel", "Power BI", "ReactJS", "Flask", "Unity", "Kafka", "Docker", "LaTeX"]
+    },
+    {
+      "name": "Concepts",
+      "keywords": ["Software Engineering", "Algorithms", "Machine Learning", "Mathematical Finance", "Language Models"]
+    }
+  ]
+}

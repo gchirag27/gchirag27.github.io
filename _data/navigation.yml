@@ -1,0 +1,15 @@
+# Navigation menu configuration
+# Only includes relevant sections for Chirag's portfolio
+
+main:
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
+    url: /contact/
