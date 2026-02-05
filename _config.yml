@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title: "Chirag D. Goenka"
+title: "Chirag Goenka"
 title_separator: "-"
-name: &name "Chirag D. Goenka"
+name: &name "Chirag Goenka"
 description: &description "AI/ML Engineer & Computer Science Researcher"
 url: https://gchirag27.github.io
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ repository: "gchirag27/gchirag27.github.io"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "Chirag D. Goenka"
+  name: "Chirag Goenka"
   pronouns: # example: "he/him"
-  bio: "MComp CS @ NUS | AI & Software Engineer | Research in Computational Biology"
+  bio: "MComp CS @ NUS | AI & Software Engineer"
   location: "Singapore"
   employer: "Danone"
   uri: # URL
