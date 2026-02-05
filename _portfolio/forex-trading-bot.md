@@ -2,6 +2,7 @@
 title: "Forex Trading Bot"
 excerpt: "An automated forex trading system with risk management and backtesting capabilities<br/>"
 collection: portfolio
+impact: "Simulates diplomatic decision-making in financial technology by processing real-time global market data and ensuring capital protection through adaptive risk management."
 ---
 
 ## Overview

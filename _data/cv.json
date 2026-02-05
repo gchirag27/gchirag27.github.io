@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Chirag D. Goenka",
+    "name": "Chirag Goenka",
     "email": "goenkachirag27@gmail.com",
     "phone": "+65-8262-0543",
     "website": "https://gchirag27.github.io",
-    "summary": "MComp CS @ NUS | AI & Software Engineer | Research in Computational Biology",
+    "summary": "MComp CS @ NUS | AI & Software Engineer",
     "location": {
       "city": "Singapore",
       "countryCode": "SG"
@@ -37,7 +37,7 @@
     },
     {
       "institution": "Purdue University",
-      "area": "B.S. in Computer Science, Applied Math Minor",
+      "area": "Bachelor of Science in Computer Science, Applied Math Minor",
       "endDate": "2024",
       "gpa": "3.71/4.0",
       "courses": [

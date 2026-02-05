@@ -25,8 +25,4 @@ My experience spans:
 - **Software Engineering**: Full-stack development, distributed systems, API design
 - **Research**: Computational biology, mathematical modeling, finite element methods
 
-## Beyond the Code
-
-When I'm not coding, you'll find me playing **badminton** 🏸, practicing **piano** 🎹, or hiking through nature trails 🥾. I'm also an active member of the NUS Mathematics Society and SIAM.
-
 Feel free to explore my [projects](/portfolio/), check out my [CV](/cv/), or [get in touch](/contact/)!

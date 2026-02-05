@@ -2,6 +2,7 @@
 title: "P2P Maze Game"
 excerpt: "A fault-tolerant peer-to-peer multiplayer maze game with real-time state synchronization<br/>"
 collection: portfolio
+impact: "Demonstrates a robust fault-tolerant distributed system where gameplay continues uninterrupted during node failures, eliminating single points of failure."
 ---
 
 ## Overview

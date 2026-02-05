@@ -2,6 +2,7 @@
 title: "FixAI"
 excerpt: "AI-powered code generation with automatic verification and trustworthiness evidence<br/>"
 collection: portfolio
+impact: "FixAI demonstrates how AI code generation can be made more transparent and trustworthy, paving the way for safer adoption of AI-assisted programming in enterprise environments."
 ---
 
 ## Overview
@@ -32,7 +33,3 @@ The project addresses the critical challenge of trust in AI-generated code. By i
 3. **Provide Evidence**: Document the reasoning and verification steps for transparency
 
 This approach supports ethical guidelines necessary in international AI policy and trust-building across organizational boundaries.
-
-## Impact
-
-FixAI demonstrates how AI code generation can be made more transparent and trustworthy, paving the way for safer adoption of AI-assisted programming in enterprise environments.

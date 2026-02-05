@@ -17,6 +17,7 @@ Coursework: Big Data Systems, Distributed Systems, Deep Learning, Uncertainty AI
 
 **Purdue University** | Indiana, United States  
 _Bachelor of Science in Computer Science, Applied Math Minor_ | Aug 2020 - May 2024  
+GPA: 3.71/4.0  
 Coursework: Causal AI, Numerical Methods, Linear Programming, Databases, OS, OOP, Data Structures  
 Awards: Top 100 Student Award, International Jaguar Excellence Award (USD 20,000), Science Scholars List  
 Mentorship: Mastercard Power Up Program, Microsoft Technical Resilience Program, McKinsey Forward
@@ -108,6 +109,8 @@ Mentorship: Mastercard Power Up Program, Microsoft Technical Resilience Program,
 ---
 
 ## Co-curricular Activities
+
+**Hobbies**: Badminton, Piano, Drums, Table Tennis, Chess, Hiking
 
 **Memberships**: Solve@NUS Club, NUS Mathematics Society, Society for Industrial and Applied Mathematics
 
